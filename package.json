@@ -1,6 +1,6 @@
 {
   "name": "path-case",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Path case a string",
   "main": "path-case.js",
   "scripts": {
